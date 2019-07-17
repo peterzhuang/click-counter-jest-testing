@@ -1,0 +1,14 @@
+.App {
+    margin: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+
+.error {
+  font-size: 150%;
+  color: red;
+}
+
+.hidden {
+  display: none;
+}
